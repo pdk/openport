@@ -1,5 +1,7 @@
 package main
 
+// Get an open port number, and print it to standard output.
+
 import (
 	"fmt"
 	"log"
