@@ -7,4 +7,5 @@ Finds an open port to listen on. Can be used for dynamically finding a port to c
     56812
 
 or
+
     $ go install github.com/pdk/openport@latest
